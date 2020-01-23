@@ -1,4 +1,4 @@
-# Kafka Library
+# Kafka Library  
 
 The goal of this library is to quick and easy set of kafka service.
 
